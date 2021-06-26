@@ -152,9 +152,9 @@ namespace Model
             return query.First();
 
         }
-        public bool VerificaNome(string pNome)
+        public bool VerificaNome()
         {
-            if (String.IsNullOrEmpty(pNome))
+            if (String.IsNullOrEmpty(this.Nome))
             {
                 return false;
             }
@@ -163,9 +163,9 @@ namespace Model
                 return true;
             }
         }
-        public bool VerificaDataNascimento(string pDataNascimento)
+        public bool VerificaDataNascimento()
         {
-            if (Convert.ToDateTime(pDataNascimento) == null)
+            if (this.DataNascimento == null)
             {
                 return false;
             }
@@ -174,9 +174,9 @@ namespace Model
                 return true;
             }
         }
-        public bool VerificaDataNascimento2(string pDataNascimento)
+        public bool VerificaDataNascimento2()
         {
-            if (Convert.ToDateTime(pDataNascimento) > DateTime.Now)
+            if (DataNascimento > DateTime.Now)
             {
                 return false;
             }
@@ -197,9 +197,9 @@ namespace Model
                 return true;
             }
         }
-        public bool VerificaGenero(string pGenero)
+        public bool VerificaGenero()
         {
-            if (String.IsNullOrEmpty(pGenero))
+            if (String.IsNullOrEmpty(this.Genero))
             {
                 return false;
             }
@@ -208,9 +208,9 @@ namespace Model
                 return true;
             }
         }
-        public bool VerificaDiasRetorno(string pDiasRetorno)
+        public bool VerificaDiasRetorno()
         {
-            if (String.IsNullOrEmpty(pDiasRetorno))
+            if (String.IsNullOrEmpty(Convert.ToString(DiasRetorno)))
             {
                 return false;
             }
