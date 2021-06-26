@@ -1,0 +1,196 @@
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\obj\Debug\netcoreapp3.1\Senac.csprojAssemblyReference.cache
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\obj\Debug\netcoreapp3.1\Senac.AssemblyInfoInputs.cache
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\obj\Debug\netcoreapp3.1\Senac.AssemblyInfo.cs
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\obj\Debug\netcoreapp3.1\Senac.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\bin\Debug\netcoreapp3.1\Senac.exe
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\bin\Debug\netcoreapp3.1\Senac.deps.json
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\bin\Debug\netcoreapp3.1\Senac.runtimeconfig.json
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\bin\Debug\netcoreapp3.1\Senac.runtimeconfig.dev.json
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\bin\Debug\netcoreapp3.1\Senac.dll
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\bin\Debug\netcoreapp3.1\Senac.pdb
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\obj\Debug\netcoreapp3.1\Senac.csproj.CopyComplete
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\obj\Debug\netcoreapp3.1\Senac.dll
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\obj\Debug\netcoreapp3.1\Senac.pdb
+C:\Users\rodrigo.junior\OneDrive - SENAC-SC\Documentos\Senac\obj\Debug\netcoreapp3.1\Senac.genruntimeconfig.cache
+C:\Users\User\Documents\Senac\obj\Debug\netcoreapp3.1\Senac.csprojAssemblyReference.cache
+C:\Users\User\Documents\Senac\obj\Debug\netcoreapp3.1\Senac.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Senac\obj\Debug\netcoreapp3.1\Senac.AssemblyInfo.cs
+C:\Users\User\Documents\Senac\obj\Debug\netcoreapp3.1\Senac.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Senac\obj\Debug\netcoreapp3.1\Senac.dll
+C:\Users\User\Documents\Senac\obj\Debug\netcoreapp3.1\Senac.pdb
+C:\Users\User\Documents\Senac\Locadora-gr\obj\Debug\netcoreapp3.1\Senac.csprojAssemblyReference.cache
+C:\Users\User\Documents\Senac\Locadora-gr\obj\Debug\netcoreapp3.1\Senac.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Senac\Locadora-gr\obj\Debug\netcoreapp3.1\Senac.AssemblyInfo.cs
+C:\Users\User\Documents\Senac\Locadora-gr\obj\Debug\netcoreapp3.1\Senac.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Senac\Locadora-gr\obj\Debug\netcoreapp3.1\Senac.dll
+C:\Users\User\Documents\Senac\Locadora-gr\obj\Debug\netcoreapp3.1\Senac.pdb
+C:\Users\User\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Senac.exe
+C:\Users\User\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Senac.deps.json
+C:\Users\User\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Senac.runtimeconfig.json
+C:\Users\User\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Senac.runtimeconfig.dev.json
+C:\Users\User\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Senac.dll
+C:\Users\User\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Senac.pdb
+C:\Users\User\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\User\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\User\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\User\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\User\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\User\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\User\Documents\Senac\Locadora-gr\obj\Debug\netcoreapp3.1\Senac.csproj.CopyComplete
+C:\Users\User\Documents\Senac\Locadora-gr\obj\Debug\netcoreapp3.1\Senac.genruntimeconfig.cache
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Senac.exe
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Senac.deps.json
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Senac.runtimeconfig.json
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Senac.runtimeconfig.dev.json
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Senac.dll
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Senac.pdb
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\obj\Debug\netcoreapp3.1\Senac.csprojAssemblyReference.cache
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\obj\Debug\netcoreapp3.1\Senac.AssemblyInfoInputs.cache
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\obj\Debug\netcoreapp3.1\Senac.AssemblyInfo.cs
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\obj\Debug\netcoreapp3.1\Senac.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\obj\Debug\netcoreapp3.1\Senac.csproj.CopyComplete
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\obj\Debug\netcoreapp3.1\Senac.dll
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\obj\Debug\netcoreapp3.1\Senac.pdb
+C:\Users\rodrigo.junior\Documents\Senac\Locadora-gr\obj\Debug\netcoreapp3.1\Senac.genruntimeconfig.cache
+C:\Users\User\Documents\Locadora-gr\bin\Debug\netcoreapp3.1\Senac.exe
+C:\Users\User\Documents\Locadora-gr\bin\Debug\netcoreapp3.1\Senac.deps.json
+C:\Users\User\Documents\Locadora-gr\bin\Debug\netcoreapp3.1\Senac.runtimeconfig.json
+C:\Users\User\Documents\Locadora-gr\bin\Debug\netcoreapp3.1\Senac.runtimeconfig.dev.json
+C:\Users\User\Documents\Locadora-gr\bin\Debug\netcoreapp3.1\Senac.dll
+C:\Users\User\Documents\Locadora-gr\bin\Debug\netcoreapp3.1\Senac.pdb
+C:\Users\User\Documents\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Documents\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Documents\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\User\Documents\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Documents\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Documents\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Documents\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Documents\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Documents\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Documents\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Documents\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Documents\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\User\Documents\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Documents\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Documents\Locadora-gr\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\User\Documents\Locadora-gr\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Documents\Locadora-gr\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\User\Documents\Locadora-gr\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\User\Documents\Locadora-gr\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\User\Documents\Locadora-gr\obj\Debug\netcoreapp3.1\Senac.csprojAssemblyReference.cache
+C:\Users\User\Documents\Locadora-gr\obj\Debug\netcoreapp3.1\Senac.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Locadora-gr\obj\Debug\netcoreapp3.1\Senac.AssemblyInfo.cs
+C:\Users\User\Documents\Locadora-gr\obj\Debug\netcoreapp3.1\Senac.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Locadora-gr\obj\Debug\netcoreapp3.1\Senac.csproj.CopyComplete
+C:\Users\User\Documents\Locadora-gr\obj\Debug\netcoreapp3.1\Senac.dll
+C:\Users\User\Documents\Locadora-gr\obj\Debug\netcoreapp3.1\Senac.pdb
+C:\Users\User\Documents\Locadora-gr\obj\Debug\netcoreapp3.1\Senac.genruntimeconfig.cache
+C:\Users\User\Documents\Projeto\Locadora-gr\bin\Debug\netcoreapp3.1\Senac.exe
+C:\Users\User\Documents\Projeto\Locadora-gr\bin\Debug\netcoreapp3.1\Senac.deps.json
+C:\Users\User\Documents\Projeto\Locadora-gr\bin\Debug\netcoreapp3.1\Senac.runtimeconfig.json
+C:\Users\User\Documents\Projeto\Locadora-gr\bin\Debug\netcoreapp3.1\Senac.runtimeconfig.dev.json
+C:\Users\User\Documents\Projeto\Locadora-gr\bin\Debug\netcoreapp3.1\Senac.dll
+C:\Users\User\Documents\Projeto\Locadora-gr\bin\Debug\netcoreapp3.1\Senac.pdb
+C:\Users\User\Documents\Projeto\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Documents\Projeto\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Documents\Projeto\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\Projeto\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\Projeto\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\Projeto\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\Projeto\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\User\Documents\Projeto\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Documents\Projeto\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Documents\Projeto\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Documents\Projeto\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Documents\Projeto\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Documents\Projeto\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\Projeto\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Documents\Projeto\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Documents\Projeto\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Documents\Projeto\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\User\Documents\Projeto\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Documents\Projeto\Locadora-gr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Documents\Projeto\Locadora-gr\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\User\Documents\Projeto\Locadora-gr\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Documents\Projeto\Locadora-gr\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\User\Documents\Projeto\Locadora-gr\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\User\Documents\Projeto\Locadora-gr\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\User\Documents\Projeto\Locadora-gr\obj\Debug\netcoreapp3.1\Senac.csprojAssemblyReference.cache
+C:\Users\User\Documents\Projeto\Locadora-gr\obj\Debug\netcoreapp3.1\Senac.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Projeto\Locadora-gr\obj\Debug\netcoreapp3.1\Senac.AssemblyInfo.cs
+C:\Users\User\Documents\Projeto\Locadora-gr\obj\Debug\netcoreapp3.1\Senac.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Projeto\Locadora-gr\obj\Debug\netcoreapp3.1\Senac.csproj.CopyComplete
+C:\Users\User\Documents\Projeto\Locadora-gr\obj\Debug\netcoreapp3.1\Senac.dll
+C:\Users\User\Documents\Projeto\Locadora-gr\obj\Debug\netcoreapp3.1\Senac.pdb
+C:\Users\User\Documents\Projeto\Locadora-gr\obj\Debug\netcoreapp3.1\Senac.genruntimeconfig.cache
