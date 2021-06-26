@@ -28,15 +28,17 @@ namespace Model
             int DiasRetorno
         )
         {
-            Context db = new Context();
-            //this.Id = Clientes.Count;
             this.Nome = Nome;
             this.DataNascimento = DataNascimento;
             this.Cpf = Cpf;
             this.DiasRetorno = DiasRetorno;
-
-            db.Clientes.Add(this);
-            db.SaveChanges();
+            
+            if (VerificaCpf())
+            {
+                Context db = new Context();
+                db.Clientes.Add(this);
+                db.SaveChanges();
+            }
         }
 
         public static Cliente AtualizarClientes(
@@ -71,7 +73,8 @@ namespace Model
             db.SaveChanges();
             return cliente;
         }
-        public static void RemoverClientes(int Id) {
+        public static void RemoverClientes(int Id)
+        {
             Cliente cliente = GetCliente(Id);
             Context db = new Context();
             db.Clientes.Remove(cliente);
@@ -149,46 +152,70 @@ namespace Model
             return query.First();
 
         }
-        public bool VerificaNome(string pNome){
-            if(String.IsNullOrEmpty(pNome)){
+        public bool VerificaNome(string pNome)
+        {
+            if (String.IsNullOrEmpty(pNome))
+            {
                 return false;
-            } else {
+            }
+            else
+            {
                 return true;
             }
         }
-        public bool VerificaDataNascimento(string pDataNascimento){
-            if(Convert.ToDateTime(pDataNascimento) == null){
+        public bool VerificaDataNascimento(string pDataNascimento)
+        {
+            if (Convert.ToDateTime(pDataNascimento) == null)
+            {
                 return false;
-            } else {
+            }
+            else
+            {
                 return true;
             }
         }
-        public bool VerificaDataNascimento2(string pDataNascimento){
-            if(Convert.ToDateTime(pDataNascimento) > DateTime.Now){
+        public bool VerificaDataNascimento2(string pDataNascimento)
+        {
+            if (Convert.ToDateTime(pDataNascimento) > DateTime.Now)
+            {
                 return false;
-            } else {
+            }
+            else
+            {
                 return true;
             }
         }
 
-        public bool VerificaCpf(string pCpf){
-            if(String.IsNullOrEmpty(pCpf)){
+        public bool VerificaCpf()
+        {
+            if (String.IsNullOrEmpty(this.Cpf))
+            {
                 return false;
-            } else {
+            }
+            else
+            {
                 return true;
             }
         }
-        public bool VerificaGenero(string pGenero){
-            if(String.IsNullOrEmpty(pGenero)){
+        public bool VerificaGenero(string pGenero)
+        {
+            if (String.IsNullOrEmpty(pGenero))
+            {
                 return false;
-            } else {
+            }
+            else
+            {
                 return true;
             }
         }
-        public bool VerificaDiasRetorno(string pDiasRetorno){
-            if(String.IsNullOrEmpty(pDiasRetorno)){
+        public bool VerificaDiasRetorno(string pDiasRetorno)
+        {
+            if (String.IsNullOrEmpty(pDiasRetorno))
+            {
                 return false;
-            } else {
+            }
+            else
+            {
                 return true;
             }
         }
